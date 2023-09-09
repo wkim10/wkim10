@@ -27,32 +27,54 @@ Java
 
 ### Other Technical Skills
 Linux
+
 Git, GitHub
+
 React, React Native, React Redux
+
 MongoDB
+
 Firebase
+
 HTML, CSS
+
 Node.js, Express.js
 
 ### Courses
 Algorithms and Data Structures
+
 Astrophysics Laboratory
+
 Calculus III
+
 Computational Physics
+
 Differential Equations
+
 Discrete Math
+
 Linear Algebra
+
 Machine Structure and Assembly-Language Programming
+
 Object-Oriented Programming for Graphical User Interfaces
+
 Web Programming
+
 
 ### Activities and Societies
 JumboCode
+
 Students for the Exploration and Development of Space (SEDS)
+
 Japanese Culture Club
+
 Chinese Students Association
+
 
 ### Languages
 English
+
 Korean
+
 Japanese
