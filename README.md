@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **wkim10/wkim10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,30 +19,23 @@ Hi! My name is Won, and I am a junior pursuing a Bachelor of Science in Computer
 I have a strong foundation in programming in the languages of C++, Python, and Java, as well as HTML, CSS, and JavaScript, through my experiences undergoing projects throughout the summer and school year. By engaging in multiple virtual internship programs while simultaneously working on a project to connect students and English tutors by allowing them to schedule sessions with one another, I am continuing to expand my knowledge of programming in the hopes of pursuing a career in the field of computer science.
 
 ### Programming Languages
-JavaScript, TypeScript
-Python
-C++
+JavaScript, TypeScript <br />
+Python <br />
+C++ <br />
 Java
 
 ### Other Technical Skills
-Linux
-
-Git, GitHub
-
-React, React Native, React Redux
-
-MongoDB
-
-Firebase
-
-HTML, CSS
-
-Node.js, Express.js
+Linux <br />
+Git, GitHub <br />
+React, React Native, React Redux <br />
+MongoDB <br />
+Firebase <br />
+HTML, CSS <br />
+Node.js, Express.js <br />
 
 ### Courses
-Algorithms and Data Structures
-
-Astrophysics Laboratory
+Algorithms and Data Structures <br />
+Astrophysics Laboratory <br />
 
 Calculus III
 
