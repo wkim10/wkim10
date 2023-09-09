@@ -36,37 +36,22 @@ Node.js, Express.js <br />
 ### Courses
 Algorithms and Data Structures <br />
 Astrophysics Laboratory <br />
-
-Calculus III
-
-Computational Physics
-
-Differential Equations
-
-Discrete Math
-
-Linear Algebra
-
-Machine Structure and Assembly-Language Programming
-
-Object-Oriented Programming for Graphical User Interfaces
-
+Calculus III <br />
+Computational Physics <br />
+Differential Equations <br />
+Discrete Math <br />
+Linear Algebra <br />
+Machine Structure and Assembly-Language Programming <br />
+Object-Oriented Programming for Graphical User Interfaces <br />
 Web Programming
 
-
 ### Activities and Societies
-JumboCode
-
-Students for the Exploration and Development of Space (SEDS)
-
-Japanese Culture Club
-
+JumboCode <br />
+Students for the Exploration and Development of Space (SEDS) <br />
+Japanese Culture Club <br />
 Chinese Students Association
 
-
 ### Languages
-English
-
-Korean
-
+English <br />
+Korean <br />
 Japanese
