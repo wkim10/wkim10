@@ -22,7 +22,7 @@ I have a strong foundation in programming in the languages of C++, Python, and J
 ### Programming Languages 🖥
 JavaScript, TypeScript <br />
 Python <br />
-C++ <br />
+C, C++ <br />
 Java
 
 ### Other Technical Skills 💻
