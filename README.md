@@ -15,21 +15,27 @@ Originally from Korea, grew up in Japan, studied Computer Science and Astrophysi
 ### Tech Stack 💻
 
 **Languages**
+
 Python, TypeScript, JavaScript, Swift, SQL
 
 **AI/ML**
+
 LLMs, RAG, ChromaDB, Anthropic API
 
 **Frontend**
+
 Next.js, React, Tailwind CSS, SwiftUI
 
 **Backend**
+
 FastAPI, Node.js, Express.js, Supabase
 
 **Infrastructure**
+
 AWS, Azure, DynamoDB, Redis, Docker, Git
 
 **Other**
+
 ServiceNow, Google BigQuery, Google Apps Script, Looker Studio, n8n
 
 ---
